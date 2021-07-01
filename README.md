@@ -11,7 +11,16 @@ elements like charts, graphs and maps, data visualisation tools provide an acces
 trends, outliers and patterns in data.
 
 
- # Mapping into Client Requirement
- - Extracting the data 
- - 
+ # Mapping into Aanalysis 
+ 
+ Based on the objective and data given in any fromat like SQL Datasets, XLMX, Server, Text etc. We are supposed to extract the data, 
+ cleaning the data, analyse the data and visualization of data on the basis of output objective.
+ 
+ - ### ETL (Extract , Transfrom , Load).
+   Extracting the data from different source systems, then Transforms the data (like applying calculations, concatenations, etc.) 
+   and finally Loads the data into the Data Warehouse system.
+ - ### Data cleaning 
+   Data cleaning is the process of fixing or removing incorrect, corrupted, incorrectly formatted, duplicate, or incomplete data 
+   within a dataset.
+ - ### 
  
