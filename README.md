@@ -13,7 +13,7 @@ trends, outliers and patterns in data.
 
  # Mapping into Aanalysis -
  
- Based on the objective and data given in any fromat like SQL Datasets, XLMX, Server, Text etc. We are supposed to extract the data, 
+ Based on the objective and data given in any format like SQL Datasets, XLMX, Server, Text etc. We are supposed to extract the data, 
  cleaning the data, analyse the data and visualization of data on the basis of output objective.
  
  - ### ETL (Extract , Transfrom , Load).
