@@ -1,4 +1,4 @@
-# Sales-insights
+# Sales Insights
 
 # Objective
 Creating a report from millions of records and overview it without any errors is a tough challenge.
