@@ -1,4 +1,4 @@
-# Sales-insights-using-DataAnalysis -
+# Sales-insights-Tableau-
 
 # Objective
 Creating a report from millions of records and overview it without any errors is a tough challenge.
